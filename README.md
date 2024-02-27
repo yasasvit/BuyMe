@@ -1,9 +1,13 @@
-Buying, selling, and bidding site for various types of shoes!
+# Shoe Marketplace
 
-ADMIN LOGIN INFO
-Username: admin1
-Password: admin1
+A platform for buying, selling, and bidding on various types of shoes!
 
-CUSTOMER REP LOGIN INFO
-Username: cus1
-Password: cus1
+## Admin Login Info
+
+- **Username:** admin1
+- **Password:** admin1
+
+## Customer Rep Login Info
+
+- **Username:** cus1
+- **Password:** cus1
